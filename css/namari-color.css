@@ -125,9 +125,7 @@ a:hover, #header.nav-solid nav a:hover {
 
 #banner {
     background: url("../images/banner-images/back.jpg") no-repeat center right;
-    background-size: cover;
-    width: 80%; /* Atur lebar banner */
-    height: 800px; /* Atur tinggi banner sesuai kebutuhan */
+    background-size: cover; /* Atur tinggi banner sesuai kebutuhan */
     margin-left: auto; /* Posisikan elemen #banner ke kanan dalam kontainer */
 }
 
