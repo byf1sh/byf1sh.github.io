@@ -124,10 +124,13 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/back.jpg") no-repeat center right;
-    background-size: cover; /* Atur tinggi banner sesuai kebutuhan */
-    margin-left: auto; /* Posisikan elemen #banner ke kanan dalam kontainer */
+    background: url("../images/banner-images/banner-image-2.jpg") no-repeat center top;
+    background-size: cover;
+    width: 100%; /* Atur lebar banner */
+    height: 400px; /* Atur tinggi banner sesuai kebutuhan */
 }
+
+
 
 
 
