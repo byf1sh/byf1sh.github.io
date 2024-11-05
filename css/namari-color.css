@@ -135,7 +135,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .image {
-    background: url("../images/banner-images/banner-image-2.jpg") no-repeat center center;
+    background: url("../images/banner-images/back.jpg") no-repeat center center;
     background-size: cover;
     width: 50%; /* Lebar gambar mengikuti setengah dari kontainer */
     height: 100%; /* Mengikuti tinggi kontainer */
