@@ -122,13 +122,12 @@ a:hover, #header.nav-solid nav a:hover {
 
 
 /* Banner Background and Text Colors */
-
 #banner {
     background: url("../images/banner-images/banner-image-2.jpg") no-repeat center top;
     background-size: cover;
-    width: 100%; /* Atur lebar banner */
-    height: 700px; /* Atur tinggi banner sesuai kebutuhan */
+    display: inline-block; /* Sesuaikan ukuran banner dengan ukuran gambar */
 }
+
 
 
 
