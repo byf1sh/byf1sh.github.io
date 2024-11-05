@@ -123,22 +123,10 @@ a:hover, #header.nav-solid nav a:hover {
 
 /* Banner Background and Text Colors */
 #banner {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 700px; /* atau gunakan auto jika ingin mengikuti tinggi konten */
-}
-
-.content {
-    text-align: center;
-    max-width: 50%; /* Mengatur lebar teks */
-}
-
-.image {
-    background: url("../images/banner-images/back.jpg") no-repeat center center;
+    background: url("../images/banner-images/back.jpg") no-repeat center top;
     background-size: cover;
-    width: 50%; /* Lebar gambar mengikuti setengah dari kontainer */
-    height: 100%; /* Mengikuti tinggi kontainer */
+    width: 100%; /* Atur lebar banner */
+    height: 700px; /* Atur tinggi banner sesuai kebutuhan */
 }
 
 
