@@ -240,6 +240,20 @@ section {
 
 .col-3 {
     width: 33.33%;
+    height: 33.33%;
+}
+
+.col-3 h1 {
+    font-family: Arial, sans-serif; /* Mengatur jenis font */
+    font-size: 24px; /* Mengatur ukuran font */
+    font-weight: bold; /* Mengatur ketebalan font */
+    color: #333; /* Mengatur warna font */
+}
+
+.col-3 h2 {
+    font-family: Arial, sans-serif; /* Mengatur jenis font */
+    font-size: 14px; /* Mengatur ukuran font */
+    color: #333; /* Mengatur warna font */
 }
 
 .col-4 {
@@ -363,7 +377,7 @@ section {
 }
 
 .nav-solid #logo #banner-logo {
-    display: none;
+    height: 100px;
 }
 
 .nav-solid #logo #navigation-logo {
